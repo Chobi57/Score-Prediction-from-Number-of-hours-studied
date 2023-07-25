@@ -1,1 +1,1 @@
-# Score-Prediction-from-Number-of-hours-studied
+# Score-Prediction-from-Number-of-study-hours
